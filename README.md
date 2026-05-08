@@ -19,8 +19,16 @@ This repository contains a curated list of comprehensive resources, learning pat
 
 ## 3. Professional Training & Certifications
 
-* **[CyberSafe Foundation API Security Training](https://cybersafefoundation.org/):** A 12-week intensive program providing hands-on training in API fundamentals, authentication, encryption, and advanced penetration testing techniques.
-* **[Core API Security Certifications]:** Look into API security courses from SANS (like SEC580) and EC-Council which cover critical API defense mechanisms.
+### Top Industry Certifications
+* **[APIsec University Certifications](https://www.apisecuniversity.com/):** Offers the highly regarded (and often free) **Certified API Security Professional (CASP)** and **API Penetration Testing** learning paths. It's the standard for focused, practical API security knowledge.
+* **[Practical DevSecOps - Certified API Security Professional](https://www.practical-devsecops.com/):** A hands-on certification that heavily emphasizes integrating API security tools (DAST, SAST) into modern CI/CD pipelines.
+* **[SANS SEC580: Identity and Access Management](https://www.sans.org/cyber-security-courses/identity-and-access-management/):** While broader, it provides deep, authoritative coverage of OAuth 2.0, SAML, and API identity tokens—critical areas where API breaches occur.
+* **[TCM Security - Practical API Hacking](https://academy.tcm-sec.com/):** An exceptionally practical, lab-based course/certification for understanding how attackers exploit API vulnerabilities in the wild.
+
+### Top Udemy Courses
+* **[REST API Penetration Testing & Security](https://www.udemy.com/):** Look for top-rated courses by authors like Corey J. Ball or ethical hacking academies that focus on Postman, Burp Suite, and Kiterunner.
+* **[OAuth 2.0 in Spring Boot Applications](https://www.udemy.com/):** Highly recommended for Java/Spring developers needing to secure their REST endpoints properly.
+* **[Web Services / API Security (REST, SOAP, GraphQL)](https://www.udemy.com/):** Comprehensive courses that break down the OWASP API Top 10 and demonstrate defensive coding practices.
 
 ## 4. Industry Tools & Platforms
 
