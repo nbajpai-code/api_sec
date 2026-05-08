@@ -43,5 +43,15 @@ Understanding the tools used in the industry is vital for securing APIs across t
 * **"Hacking APIs" by Corey J. Ball:** An excellent practical guide to breaking and securing web application programming interfaces.
 * **"Advanced API Security" by Prabath Siriwardena:** A comprehensive look at OAuth 2.0, OpenID Connect, JWS, and JWE.
 
+## 6. Best Practices & White Papers (Vendors, Consulting, Institutions)
+
+* **[Gartner Research on API Security](https://www.gartner.com/en/cybersecurity):** Strategic research on API security market trends, the evolution of attack vectors, and recommendations for security architecture.
+* **[NIST Cybersecurity Framework (CSF)](https://www.nist.gov/cyberframework):** Provides foundational practices for integrating API security into a broader organizational risk management strategy, alongside specific microservices and API publications.
+* **[SANS Institute Reading Room](https://www.sans.org/white-papers/):** Offers white papers and technical resources focused on the hands-on implementation of security controls, defensive programming, and incident response for APIs.
+* **[Akamai (formerly Noname Security) Reports](https://www.akamai.com/resources):** Detailed white papers and state-of-API-security reports covering continuous discovery, shadow APIs, and runtime protection strategies.
+* **[Salt Security Labs & Reports](https://salt.security/resources/):** Frequently publishes the "State of API Security Report", outlining top vulnerabilities found in the wild, common attack patterns, and mitigation strategies.
+* **[IBM Security - API Management & Security](https://www.ibm.com/security):** Consulting and product-driven guidance emphasizing API lifecycle management, robust authentication, and gateway security controls.
+* **[Cequence Security Resources](https://www.cequence.ai/resources/):** Excellent white papers focused on understanding and defending against automated API bot attacks and utilizing behavioral analysis.
+
 ---
 *Maintained for continuous learning and reference in API Security.*
